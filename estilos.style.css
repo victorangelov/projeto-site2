@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(211, 185, 185);
+}
+
+main{
+    /*cor de tudo que estiver na tag main */
+    background-color: white;
+    /*largura do campo */
+    width: 500px;
+    /*margem atumática é igual a centralizada */
+    margin: auto;
+    /*sombra da caixa = pra esquerda, pra baixo, esfumaçado e cor da sombra */
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    padding: 10px;
+
+}
